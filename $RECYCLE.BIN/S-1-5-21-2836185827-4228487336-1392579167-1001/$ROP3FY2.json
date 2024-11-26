@@ -1,0 +1,23 @@
+{
+  "name": "Native-app",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "dependencies": {
+        "create-expo-app": "^3.1.1"
+      }
+    },
+    "node_modules/create-expo-app": {
+      "version": "3.1.1",
+      "resolved": "https://registry.npmjs.org/create-expo-app/-/create-expo-app-3.1.1.tgz",
+      "integrity": "sha512-ql6nlFm7IxESYhpPdX5auTKBJhVvRjvXhij/WoWv2ceBL5TQIAMV2RpLscl92v8Mtri+qBoYKV7+/ZMix14Oqw==",
+      "bin": {
+        "create-expo-app": "build/index.js"
+      },
+      "engines": {
+        "node": ">=18.13.0"
+      }
+    }
+  }
+}

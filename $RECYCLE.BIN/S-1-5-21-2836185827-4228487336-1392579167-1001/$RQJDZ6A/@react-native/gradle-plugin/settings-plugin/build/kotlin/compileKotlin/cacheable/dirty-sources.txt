@@ -1,0 +1,2 @@
+D:\codebase\React-native_bluetooth\BluetoothToggleApp\node_modules\@react-native\gradle-plugin\settings-plugin\src\main\kotlin\com\facebook\react\ReactSettingsPlugin.kt
+D:\codebase\React-native_bluetooth\BluetoothToggleApp\node_modules\@react-native\gradle-plugin\settings-plugin\src\main\kotlin\com\facebook\react\ReactSettingsExtension.kt
